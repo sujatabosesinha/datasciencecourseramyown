@@ -1,0 +1,63 @@
+VirtualBox COM Server 4.3.12 r93733 win.x86 (May 16 2014 15:19:18) release log
+00:00:00.132007 main     Log opened 2014-06-09T20:21:24.407325900Z
+00:00:00.132007 main     Build Type: release
+00:00:00.132007 main     OS Product: Windows 7
+00:00:00.132007 main     OS Release: 6.1.7601
+00:00:00.132007 main     OS Service Pack: 1
+00:00:00.295016 main     DMI Product Name: Dell DXP051                  
+00:00:00.316018 main     DMI Product Version: 
+00:00:00.316018 main     Host RAM: 2046MB total, 460MB available
+00:00:00.334019 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.334019 main     Process ID: 5252
+00:00:00.334019 main     Package type: WINDOWS_32BITS_GENERIC
+00:00:01.163066          HostDnsMonitorProxy: Host's DNS information updated:
+00:00:01.163066          DNS server 1: 192.168.1.254
+00:00:01.163066          DNS domain: gateway.2wire.net
+00:00:01.174067          VDInit finished
+00:02:18.136200          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={fafa4e17-1ee2-4905-a10e-fe7c18bf5554} aComponent={VirtualBox} aText={Could not find a registered machine named 'SAS-University-Edition'}, preserve=false
+00:02:18.145702          ERROR [COM]: aRC=VBOX_E_FILE_ERROR (0x80bb0004) aIID={05f2bbb6-a3a6-4fb9-9b49-6d0dda7142ac} aComponent={Medium} aText={Could not find file for the medium 'C:\Users\Sinha\VirtualBox VMs\SAS-University-Edition\SAS-University-Edition.vmdk' (VERR_PATH_NOT_FOUND)}, preserve=false
+00:02:27.899440          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={fafa4e17-1ee2-4905-a10e-fe7c18bf5554} aComponent={VirtualBox} aText={Could not find a registered machine named 'SAS-University-Edition'}, preserve=false
+00:02:27.899940          ERROR [COM]: aRC=VBOX_E_FILE_ERROR (0x80bb0004) aIID={05f2bbb6-a3a6-4fb9-9b49-6d0dda7142ac} aComponent={Medium} aText={Could not find file for the medium 'C:\Users\Sinha\VirtualBox VMs\SAS-University-Edition\SAS-University-Edition.vmdk' (VERR_PATH_NOT_FOUND)}, preserve=false
+00:07:21.045165          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={480cf695-2d8d-4256-9c7c-cce4184fa048} aComponent={Machine} aText={This machine does not have any snapshots}, preserve=false
+00:07:21.056166          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={480cf695-2d8d-4256-9c7c-cce4184fa048} aComponent={Machine} aText={This machine does not have any snapshots}, preserve=false
+00:07:21.056666          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={480cf695-2d8d-4256-9c7c-cce4184fa048} aComponent={Machine} aText={This machine does not have any snapshots}, preserve=false
+00:09:53.140979          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={fafa4e17-1ee2-4905-a10e-fe7c18bf5554} aComponent={VirtualBox} aText={Could not find a registered machine named 'SAS-University-Edition_1'}, preserve=false
+00:09:53.141979          ERROR [COM]: aRC=VBOX_E_FILE_ERROR (0x80bb0004) aIID={05f2bbb6-a3a6-4fb9-9b49-6d0dda7142ac} aComponent={Medium} aText={Could not find file for the medium 'C:\Users\Sinha\VirtualBox VMs\SAS-University-Edition_1\SAS-University-Edition.vmdk' (VERR_PATH_NOT_FOUND)}, preserve=false
+00:13:41.797014          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={480cf695-2d8d-4256-9c7c-cce4184fa048} aComponent={Machine} aText={This machine does not have any snapshots}, preserve=false
+00:13:41.815517          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={480cf695-2d8d-4256-9c7c-cce4184fa048} aComponent={Machine} aText={This machine does not have any snapshots}, preserve=false
+00:13:41.831519          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={480cf695-2d8d-4256-9c7c-cce4184fa048} aComponent={Machine} aText={This machine does not have any snapshots}, preserve=false
+00:22:18.001064          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={480cf695-2d8d-4256-9c7c-cce4184fa048} aComponent={Machine} aText={Machine is not locked for session (session state: Unlocked)}, preserve=false
+00:22:19.582265          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={3295e6ce-b051-47b2-9514-2c588bfe7554} aComponent={ExtPackManager} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false
+00:22:19.657274          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={480cf695-2d8d-4256-9c7c-cce4184fa048} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false
+00:23:16.684016          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={480cf695-2d8d-4256-9c7c-cce4184fa048} aComponent={Machine} aText={Machine is not locked for session (session state: Unlocked)}, preserve=false
+00:23:17.701645          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={3295e6ce-b051-47b2-9514-2c588bfe7554} aComponent={ExtPackManager} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false
+00:23:17.764153          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={480cf695-2d8d-4256-9c7c-cce4184fa048} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false
+00:33:07.786576          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={480cf695-2d8d-4256-9c7c-cce4184fa048} aComponent={Machine} aText={Machine is not locked for session (session state: Unlocked)}, preserve=false
+00:33:08.559674          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={3295e6ce-b051-47b2-9514-2c588bfe7554} aComponent={ExtPackManager} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false
+00:33:08.616182          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={480cf695-2d8d-4256-9c7c-cce4184fa048} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false
+00:40:03.575875          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={480cf695-2d8d-4256-9c7c-cce4184fa048} aComponent={Machine} aText={Machine is not locked for session (session state: Unlocked)}, preserve=false
+00:40:04.363475          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={3295e6ce-b051-47b2-9514-2c588bfe7554} aComponent={ExtPackManager} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false
+00:40:04.412981          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={480cf695-2d8d-4256-9c7c-cce4184fa048} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false
+00:48:34.212217          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={480cf695-2d8d-4256-9c7c-cce4184fa048} aComponent={Machine} aText={Machine is not locked for session (session state: Unlocked)}, preserve=false
+00:48:34.998317          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={3295e6ce-b051-47b2-9514-2c588bfe7554} aComponent={ExtPackManager} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false
+00:48:35.047323          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={480cf695-2d8d-4256-9c7c-cce4184fa048} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false
+02:13:49.824318 MainPower Host suspending: Paused 0 VMs
+02:14:37.533985 MainPower Host resumed: Resumed 0 VMs
+02:44:34.515673 MainPower Host suspending: Paused 0 VMs
+02:45:05.053916 MainPower Host resumed: Resumed 0 VMs
+03:15:04.162874 MainPower Host suspending: Paused 0 VMs
+03:15:36.172804 MainPower Host resumed: Resumed 0 VMs
+03:45:34.405151 MainPower Host suspending: Paused 0 VMs
+03:46:05.189433 MainPower Host resumed: Resumed 0 VMs
+04:39:04.595166 MainPower Host suspending: Paused 0 VMs
+04:39:37.231812 MainPower Host resumed: Resumed 0 VMs
+05:09:34.204498 MainPower Host suspending: Paused 0 VMs
+05:10:05.161430 MainPower Host resumed: Resumed 0 VMs
+05:40:04.429908 MainPower Host suspending: Paused 0 VMs
+05:41:08.541486 MainPower Host resumed: Resumed 0 VMs
+06:11:04.144499 MainPower Host suspending: Paused 0 VMs
+06:11:36.269443 MainPower Host resumed: Resumed 0 VMs
+06:41:34.320267 MainPower Host suspending: Paused 0 VMs
+06:42:05.016911 MainPower Host resumed: Resumed 0 VMs
+07:56:50.161357 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={05f2bbb6-a3a6-4fb9-9b49-6d0dda7142ac} aComponent={Medium} aText={Medium 'C:\Users\Sinha\VirtualBox VMs\SAS-University-Edition\SAS-University-Edition.vmdk' cannot be closed because it is still attached to 1 virtual machines}, preserve=false
+07:56:50.459374 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={fafa4e17-1ee2-4905-a10e-fe7c18bf5554} aComponent={VirtualBox} aText={The object is not ready}, preserve=false

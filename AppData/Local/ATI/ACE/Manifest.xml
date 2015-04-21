@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ace version="2">
+  <component name="Wizard" company="ATI.ACE" multiInstance="false">
+    <location file="CLI.Component.Wizard" ext="dll" />
+    <caste name="WZ_GraphicsCaste" company="ATI.ACE" filter="">
+      <location file="CLI.Caste.Graphics.Wizard" ext="dll" />
+      <aspect name="WZ_TransCode" company="ATI.ACE" filter="">
+        <location file="CLI.Aspect.TransCode.Graphics.Wizard" ext="dll" />
+      </aspect>
+      <aspect name="WZ_Radeon3D" company="ATI.ACE" filter="">
+        <location file="CLI.Aspect.Radeon3D.Graphics.Wizard" ext="dll" />
+      </aspect>
+      <aspect name="WZ_MMVideo" company="ATI.ACE" filter="">
+        <location file="CLI.Aspect.MMVideo.Graphics.Wizard" ext="dll" />
+      </aspect>
+      <aspect name="WZ_DeviceLCD" company="ATI.ACE" filter="DeviceLCD">
+        <location file="CLI.Aspect.DeviceLCD.Graphics.Wizard" ext="dll" />
+      </aspect>
+      <aspect name="WZ_DisplaysManager" company="ATI.ACE" filter="">
+        <location file="CLI.Aspect.DisplaysManager.Graphics.Wizard" ext="dll" />
+      </aspect>
+      <aspect name="WZ_InfoCentre" company="ATI.ACE" filter="InfoCentre">
+        <location file="CLI.Aspect.InfoCentre.Graphics.Wizard" ext="dll" />
+      </aspect>
+      <aspect name="WZ_DeviceTV" company="ATI.ACE" filter="DeviceTV">
+        <location file="CLI.Aspect.DeviceTV.Graphics.Wizard" ext="dll" />
+      </aspect>
+      <aspect name="WZ_DeviceCV" company="ATI.ACE" filter="DeviceCV">
+        <location file="CLI.Aspect.DeviceCV.Graphics.Wizard" ext="dll" />
+      </aspect>
+    </caste>
+  </component>
+  <component name="Dashboard" company="ATI.ACE" multiInstance="false">
+    <location file="CLI.Component.Dashboard" ext="dll" />
+    <caste name="DB_GraphicsCaste" company="ATI.ACE" filter="">
+      <location file="CLI.Caste.Graphics.Dashboard" ext="dll" />
+      <aspect name="DB_Welcome" company="ATI.ACE" filter="">
+        <location file="CLI.Aspect.Welcome.Graphics.Dashboard" ext="dll" />
+      </aspect>
+      <aspect name="DB_InfoCentre" company="ATI.ACE" filter="InfoCentre">
+        <location file="CLI.Aspect.InfoCentre.Graphics.Dashboard" ext="dll" />
+      </aspect>
+      <aspect name="DB_DisplaysManager" company="ATI.ACE" filter="">
+        <location file="CLI.Aspect.DisplaysManager.Graphics.Dashboard" ext="dll" />
+      </aspect>
+      <aspect name="DB_VeryLargeDesktop" company="ATI.ACE" filter="VeryLargeDesktop">
+        <location file="CLI.Aspect.VeryLargeDesktop.Graphics.Dashboard" ext="dll" />
+      </aspect>
+      <aspect name="DB_DisplaysOptions" company="ATI.ACE" filter="DisplaysOptions">
+        <location file="CLI.Aspect.DisplaysOptions.Graphics.Dashboard" ext="dll" />
+      </aspect>
+      <aspect name="DB_DeviceCRT" company="ATI.ACE" filter="DeviceCRT">
+        <location file="CLI.Aspect.DeviceCRT.Graphics.Dashboard" ext="dll" />
+      </aspect>
+      <aspect name="DB_DeviceLCD" company="ATI.ACE" filter="DeviceLCD">
+        <location file="CLI.Aspect.DeviceLCD.Graphics.Dashboard" ext="dll" />
+      </aspect>
+      <aspect name="DB_DeviceCV" company="ATI.ACE" filter="DeviceCV">
+        <location file="CLI.Aspect.DeviceCV.Graphics.Dashboard" ext="dll" />
+      </aspect>
+      <aspect name="DB_DeviceTV" company="ATI.ACE" filter="DeviceTV">
+        <location file="CLI.Aspect.DeviceTV.Graphics.Dashboard" ext="dll" />
+      </aspect>
+      <aspect name="DB_DeviceDFP" company="ATI.ACE" filter="DeviceDFP">
+        <location file="CLI.Aspect.DeviceDFP.Graphics.Dashboard" ext="dll" />
+      </aspect>
+      <aspect name="DB_Radeon3D" company="ATI.ACE" filter="Radeon3D">
+        <location file="CLI.Aspect.Radeon3D.Graphics.Dashboard" ext="dll" />
+      </aspect>
+      <aspect name="DB_DisplaysColour2" company="ATI.ACE" filter="DisplaysColour2">
+        <location file="CLI.Aspect.DisplaysColour2.Graphics.Dashboard" ext="dll" />
+      </aspect>
+      <aspect name="DB_MMVideo" company="ATI.ACE" filter="MMVideo">
+        <location file="CLI.Aspect.MMVideo.Graphics.Dashboard" ext="dll" />
+      </aspect>
+      <aspect name="DB_PowerPlayDPPE" company="ATI.ACE" filter="PowerPlayDPPE">
+        <location file="CLI.Aspect.PowerPlayDPPE.Graphics.Dashboard" ext="dll" />
+      </aspect>
+      <aspect name="DB_PowerPlay4" company="ATI.ACE" filter="PowerPlay4">
+        <location file="CLI.Aspect.PowerPlay4.Graphics.Dashboard" ext="dll" />
+      </aspect>
+      <aspect name="DB_PowerPlay3" company="ATI.ACE" filter="PowerPlay3">
+        <location file="CLI.Aspect.PowerPlay3.Graphics.Dashboard" ext="dll" />
+      </aspect>
+      <aspect name="DB_SmartGart" company="ATI.ACE" filter="SmartGart">
+        <location file="CLI.Aspect.SmartGart.Graphics.Dashboard" ext="dll" />
+      </aspect>
+      <aspect name="DB_VPURecover" company="ATI.ACE" filter="VPURecover">
+        <location file="CLI.Aspect.VPURecover.Graphics.Dashboard" ext="dll" />
+      </aspect>
+      <aspect name="DB_WorkstationConfig" company="ATI.ACE" filter="WorkstationConfig">
+        <location file="CLI.Aspect.WorkstationConfig.Graphics.Dashboard" ext="dll" />
+      </aspect>
+      <aspect name="DB_OverDrive3" company="ATI.ACE" filter="Overdrive3">
+        <location file="CLI.Aspect.OverDrive3.Graphics.Dashboard" ext="dll" />
+      </aspect>
+      <aspect name="DB_OverDrive2" company="ATI.ACE" filter="Overdrive2">
+        <location file="CLI.Aspect.OverDrive2.Graphics.Dashboard" ext="dll" />
+      </aspect>
+      <aspect name="DB_IntegratedUMAFrameBuffer" company="ATI.ACE" filter="IntegratedUMAFrameBuffer">
+        <location file="CLI.Aspect.IntegratedUMAFrameBuffer.Graphics.Dashboard" ext="dll" />
+      </aspect>
+      <aspect name="DB_MultiVPU3" company="ATI.ACE" filter="MultiVPU3">
+        <location file="CLI.Aspect.MultiVPU3.Graphics.Dashboard" ext="dll" />
+      </aspect>
+      <aspect name="DB_MultiVPU2" company="ATI.ACE" filter="MultiVPU2">
+        <location file="CLI.Aspect.MultiVPU2.Graphics.Dashboard" ext="dll" />
+      </aspect>
+      <aspect name="DB_MultiVPU" company="ATI.ACE" filter="MultiVPU">
+        <location file="CLI.Aspect.MultiVPU.Graphics.Dashboard" ext="dll" />
+      </aspect>
+    </caste>
+  </component>
+  <component name="Runtime" company="ATI.ACE" multiInstance="false">
+    <location file="CLI.Component.Runtime" ext="dll" />
+    <caste name="RT_GraphicsCaste" company="ATI.ACE" filter="">
+      <location file="CLI.Caste.Graphics.Runtime" ext="dll" />
+      <aspect name="RT_DeviceCV" company="ATI.ACE" filter="DeviceCV,DeviceCV2">
+        <location file="CLI.Aspect.DeviceCV.Graphics.Runtime" ext="dll" />
+      </aspect>
+      <aspect name="RT_DeviceTV" company="ATI.ACE" filter="DeviceTV,DeviceTV2">
+        <location file="CLI.Aspect.DeviceTV.Graphics.Runtime" ext="dll" />
+      </aspect>
+      <aspect name="RT_InfoCentre" company="ATI.ACE" filter="InfoCentre">
+        <location file="CLI.Aspect.InfoCentre.Graphics.Runtime" ext="dll" />
+      </aspect>
+      <aspect name="RT_HotkeysHandling" company="ATI.ACE" filter="">
+        <location file="CLI.Aspect.HotkeysHandling.Graphics.Runtime" ext="dll" />
+      </aspect>
+      <aspect name="RT_DisplaysColour2" company="ATI.ACE" filter="DisplaysColour2">
+        <location file="CLI.Aspect.DisplaysColour2.Graphics.Runtime" ext="dll" />
+      </aspect>
+      <aspect name="RT_DisplaysOptions" company="ATI.ACE" filter="DisplaysOptions">
+        <location file="CLI.Aspect.DisplaysOptions.Graphics.Runtime" ext="dll" />
+      </aspect>
+      <aspect name="RT_DeviceCRT" company="ATI.ACE" filter="DeviceCRT,DeviceCRT2">
+        <location file="CLI.Aspect.DeviceCRT.Graphics.Runtime" ext="dll" />
+      </aspect>
+      <aspect name="RT_DeviceLCD" company="ATI.ACE" filter="DeviceLCD,DeviceLCD2">
+        <location file="CLI.Aspect.DeviceLCD.Graphics.Runtime" ext="dll" />
+      </aspect>
+      <aspect name="RT_DeviceDFP" company="ATI.ACE" filter="DeviceDFP,DeviceDFP2">
+        <location file="CLI.Aspect.DeviceDFP.Graphics.Runtime" ext="dll" />
+      </aspect>
+      <aspect name="RT_VPURecover" company="ATI.ACE" filter="VPURecover">
+        <location file="CLI.Aspect.VPURecover.Graphics.Runtime" ext="dll" />
+      </aspect>
+      <aspect name="RT_OverDrive3" company="ATI.ACE" filter="Overdrive3.Desktop">
+        <location file="CLI.Aspect.OverDrive3.Graphics.Runtime" ext="dll" />
+      </aspect>
+      <aspect name="RT_OverDrive2" company="ATI.ACE" filter="Overdrive2.Desktop,Overdrive2.Mobile">
+        <location file="CLI.Aspect.OverDrive2.Graphics.Runtime" ext="dll" />
+      </aspect>
+      <aspect name="RT_WorkstationConfig" company="ATI.ACE" filter="WorkstationConfig">
+        <location file="CLI.Aspect.WorkstationConfig.Graphics.Runtime" ext="dll" />
+      </aspect>
+      <aspect name="RT_VeryLargeDesktop" company="ATI.ACE" filter="VeryLargeDesktop">
+        <location file="CLI.Aspect.VeryLargeDesktop.Graphics.Runtime" ext="dll" />
+      </aspect>
+      <aspect name="RT_MultiVPU" company="ATI.ACE" filter="MultiVPU">
+        <location file="CLI.Aspect.MultiVPU.Graphics.Runtime" ext="dll" />
+      </aspect>
+      <aspect name="RT_MultiVPU2" company="ATI.ACE" filter="MultiVPU2">
+        <location file="CLI.Aspect.MultiVPU2.Graphics.Runtime" ext="dll" />
+      </aspect>
+      <aspect name="RT_MultiVPU3" company="ATI.ACE" filter="MultiVPU3">
+        <location file="CLI.Aspect.MultiVPU3.Graphics.Runtime" ext="dll" />
+      </aspect>
+      <aspect name="RT_SmartGart" company="ATI.ACE" filter="SmartGart">
+        <location file="CLI.Aspect.SmartGart.Graphics.Runtime" ext="dll" />
+      </aspect>
+      <aspect name="RT_Radeon3D" company="ATI.ACE" filter="Radeon3D">
+        <location file="CLI.Aspect.Radeon3D.Graphics.Runtime" ext="dll" />
+      </aspect>
+      <aspect name="RT_MMVideo" company="ATI.ACE" filter="MMVideo">
+        <location file="CLI.Aspect.MMVideo.Graphics.Runtime" ext="dll" />
+      </aspect>
+      <aspect name="RT_IntegratedUMAFrameBuffer" company="ATI.ACE" filter="IntegratedUMAFrameBuffer">
+        <location file="CLI.Aspect.IntegratedUMAFrameBuffer.Graphics.Runtime" ext="dll" />
+      </aspect>
+      <aspect name="RT_PowerPlayDPPE" company="ATI.ACE" filter="PowerPlayDPPE">
+        <location file="CLI.Aspect.PowerPlayDPPE.Graphics.Runtime" ext="dll" />
+      </aspect>
+      <aspect name="RT_PowerPlay4" company="ATI.ACE" filter="PowerPlay4">
+        <location file="CLI.Aspect.PowerPlay4.Graphics.Runtime" ext="dll" />
+      </aspect>
+      <aspect name="RT_PowerPlay3" company="ATI.ACE" filter="PowerPlay3">
+        <location file="CLI.Aspect.PowerPlay3.Graphics.Runtime" ext="dll" />
+      </aspect>
+    </caste>
+  </component>
+  <component name="Systemtray" company="ATI.ACE" multiInstance="false">
+    <location file="CLI.Component.Systemtray" ext="dll" />
+  </component>
+  <component name="Eeu" company="ATI.ACE" multiInstance="true">
+    <location file="CLI.Component.Eeu" ext="dll" />
+  </component>
+  <component name="Erecord" company="ATI.ACE" multiInstance="true">
+    <location file="CLI.Component.Erecord" ext="dll" />
+  </component>
+  <component name="Autoremoval" company="ATI.ACE" multiInstance="false">
+    <location file="CLI.Component.Autoremoval" ext="dll" />
+  </component>
+  <component name="Icomponent" company="ATI.ACE" multiInstance="true">
+    <location file="CLI.Component.Icomponent" ext="dll" />
+  </component>
+  <component name="Load" company="ATI.ACE" multiInstance="true">
+    <location file="CLI.Component.Load" ext="dll" />
+  </component>
+  <component name="Help" company="ATI.ACE" multiInstance="true">
+    <location file="CLI.Component.Help" ext="dll" />
+  </component>
+</ace>
